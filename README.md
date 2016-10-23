@@ -42,6 +42,14 @@ _Using 'Dark2' palette from [gnuplot-colorbrewer][2]._
 
 Source: `cb-line`
 
+---
+
+**Custom Lines using `dashtype`**
+![Line Plot](./custom-lines/custom-lines.png "Line plot using custom lines")
+_Using 'Set1' palette from [gnuplot-colorbrewer][2]._
+
+Source: `custom-lines`
+
 
 [1]: http://youinfinitesnake.blogspot.com/2011/02/attractive-scientific-plots-with.html "Attractive scientific plots with gnuplot"
 [2]: https://github.com/aschn/gnuplot-colorbrewer.git "aschn/gnuplot-colorbrewer"
