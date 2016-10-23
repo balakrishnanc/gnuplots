@@ -34,6 +34,14 @@ Source: `stacked-hist`
 
 Source: `simple-hist`
 
+---
+
+**Line Plot**
+![Line Plot](./cb-line/cb-line.png "Line plot")
+_Using 'Dark2' palette from [gnuplot-colorbrewer][2]._
+
+Source: `cb-line`
+
 
 [1]: http://youinfinitesnake.blogspot.com/2011/02/attractive-scientific-plots-with.html "Attractive scientific plots with gnuplot"
 [2]: https://github.com/aschn/gnuplot-colorbrewer.git "aschn/gnuplot-colorbrewer"
