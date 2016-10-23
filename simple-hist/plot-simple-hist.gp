@@ -4,6 +4,7 @@ set terminal pdfcairo enhanced font "Gill Sans, 16" linewidth 2 rounded dashed
 # set terminal pdfcairo enhanced font "Clear Sans, 16" linewidth 2 rounded dashed
 
 set style line 80 lc rgb "#202020" lt 1 lw 1
+# Border: 2 (Only Y-axis)
 set border 2 back ls 80
 
 set style line 81 lc rgb "#808080" lt 1 lw 0.5 dt 3
