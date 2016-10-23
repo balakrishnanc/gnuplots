@@ -12,7 +12,7 @@ Source: `multi-cmp-hist`
 
 **Stacked Histograms**
 ![Stacked Histograms](./stacked-hist/sys-perf-stacked-comparison.png "Stacked Histograms")
-_Colors represent different systems, and the patterns represent the different statistics._
+_Colors and patterns represent the different statistics. Labels along the X-axis indicate the methods and systems._
 
 Source: `stacked-hist`
 
