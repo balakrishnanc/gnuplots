@@ -16,5 +16,13 @@ _Colors and patterns represent the different statistics. Labels along the X-axis
 
 Source: `stacked-hist`
 
+---
+
+**Simple Histograms with Error bars**
+![Simple Histograms](./simple-hist/simple-hist.png "Simple Histograms")
+_Error bars ._
+
+Source: `simple-hist`
+
 
 [1]: http://youinfinitesnake.blogspot.com/2011/02/attractive-scientific-plots-with.html "Attractive scientific plots with gnuplot"
