@@ -20,7 +20,6 @@ Source: `stacked-hist`
 
 **Simple Histograms with Error bars**
 ![Simple Histograms](./simple-hist/simple-hist.png "Simple Histograms")
-_Error bars ._
 
 Source: `simple-hist`
 
